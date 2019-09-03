@@ -11,8 +11,8 @@ Examples: Project 1 = Week 1, Project 4 = Week 4
 
 ****Please put input files in the same folder as the python code when necessary. 
 
-Table of Contents
-Project 1 Part 1 – Monthly Payment Calculator
+Table of Contents /n
+Project 1 Part 1 – Monthly Payment Calculator /n
 Project 1 Part 2 – Employee Salary Calculator
 Project 1 Part 3 – Beauty Salon Bill Calculator
 Project 2 Part 1 – Parking Garage Rate Calculator
