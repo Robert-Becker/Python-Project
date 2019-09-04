@@ -4,12 +4,12 @@ Original Code written for my university python course. These projects were creat
 
 * All assignments were created to obtain highest marks in the course based on the criteria presented and do not necessarily represent the best solutions to these problems.
 
-**Further, we were told to put excessive comments in our code to get practice. Production code would have just enough comments to allow a fellow engineer to understand the code without overwhelming them. 
+*Further, we were told to put excessive comments in our code to get practice. Production code would have just enough comments to allow a fellow engineer to understand the code without overwhelming them. 
 
-***Each project set is a week’s assignments. 
+*Each project set is a week’s assignments. 
 Examples: Project 1 = Week 1, Project 4 = Week 4
 
-****Please put input files in the same folder as the python code when necessary. 
+*Please put input files in the same folder as the python code when necessary. 
 
 Table of Contents 
 
